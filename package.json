@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurabhiMoond/api.git"
+  },
+  "keywords": [],
+  "author": "surabhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurabhiMoond/api/issues"
+  },
+  "homepage": "https://github.com/SurabhiMoond/api#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
